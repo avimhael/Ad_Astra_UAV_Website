@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /bat
+Disallow: /css
+Disallow: /fonts
+Disallow: /images
+Disallow: /js
+Disallow: /sass
